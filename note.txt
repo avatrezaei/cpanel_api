@@ -1,0 +1,6 @@
+
+1-for create database
+http://localhost/cpanel/create_database.php?action=create_database
+
+2-for delete database
+http://localhost/cpanel/create_database.php?action=delete_database&dbname=hekabir_05a84b11a7
